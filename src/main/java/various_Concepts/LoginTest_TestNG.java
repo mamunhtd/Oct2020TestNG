@@ -274,13 +274,14 @@ public class LoginTest_TestNG {
 	}
 	
 
-	// @AfterMethod
+	 @AfterMethod
 	public void tearDown()  {
 		try {
-			Thread.sleep(1000);
+			
 			driver.close();
-		} catch (InterruptedException e) {
 			driver.quit();
+		} catch (Exception e) {
+			
 			e.printStackTrace();
 		}
 		

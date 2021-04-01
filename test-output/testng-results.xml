@@ -2,39 +2,51 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30939" started-at="2021-03-31T18:30:20 EDT" finished-at="2021-03-31T18:30:51 EDT">
+  <suite name="Default suite" duration-ms="36183" started-at="2021-04-01T02:05:40 EDT" finished-at="2021-04-01T02:06:17 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30939" started-at="2021-03-31T18:30:20 EDT" finished-at="2021-03-31T18:30:51 EDT">
+    <test name="Default test" duration-ms="36183" started-at="2021-04-01T02:05:40 EDT" finished-at="2021-04-01T02:06:17 EDT">
       <class name="various_Concepts.LoginTest_TestNG">
-        <test-method status="PASS" signature="readConfig()[pri:0, instance:various_Concepts.LoginTest_TestNG@2d6eabae]" name="readConfig" is-config="true" duration-ms="9" started-at="2021-03-31T18:30:20 EDT" finished-at="2021-03-31T18:30:20 EDT">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="readConfig" is-config="true" duration-ms="11" started-at="2021-04-01T02:05:41 EDT" finished-at="2021-04-01T02:05:41 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readConfig -->
-        <test-method status="PASS" signature="init()[pri:0, instance:various_Concepts.LoginTest_TestNG@2d6eabae]" name="init" is-config="true" duration-ms="7193" started-at="2021-03-31T18:30:20 EDT" finished-at="2021-03-31T18:30:28 EDT">
+        <test-method status="PASS" signature="init()[pri:0, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="init" is-config="true" duration-ms="6806" started-at="2021-04-01T02:05:41 EDT" finished-at="2021-04-01T02:05:47 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="loginTest()[pri:1, instance:various_Concepts.LoginTest_TestNG@2d6eabae]" name="loginTest" duration-ms="2086" started-at="2021-03-31T18:30:28 EDT" finished-at="2021-03-31T18:30:30 EDT">
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="loginTest" duration-ms="2080" started-at="2021-04-01T02:05:47 EDT" finished-at="2021-04-01T02:05:49 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="init()[pri:0, instance:various_Concepts.LoginTest_TestNG@2d6eabae]" name="init" is-config="true" duration-ms="5754" started-at="2021-03-31T18:30:30 EDT" finished-at="2021-03-31T18:30:35 EDT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="tearDown" is-config="true" duration-ms="1014" started-at="2021-04-01T02:05:49 EDT" finished-at="2021-04-01T02:05:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="init" is-config="true" duration-ms="5907" started-at="2021-04-01T02:05:50 EDT" finished-at="2021-04-01T02:05:56 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="dashboardPage()[pri:2, instance:various_Concepts.LoginTest_TestNG@2d6eabae]" name="dashboardPage" duration-ms="4058" started-at="2021-03-31T18:30:35 EDT" finished-at="2021-03-31T18:30:39 EDT">
+        <test-method status="PASS" signature="dashboardPage()[pri:2, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="dashboardPage" duration-ms="6505" started-at="2021-04-01T02:05:56 EDT" finished-at="2021-04-01T02:06:03 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dashboardPage -->
-        <test-method status="PASS" signature="init()[pri:0, instance:various_Concepts.LoginTest_TestNG@2d6eabae]" name="init" is-config="true" duration-ms="5905" started-at="2021-03-31T18:30:39 EDT" finished-at="2021-03-31T18:30:45 EDT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="tearDown" is-config="true" duration-ms="1225" started-at="2021-04-01T02:06:03 EDT" finished-at="2021-04-01T02:06:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="init" is-config="true" duration-ms="5183" started-at="2021-04-01T02:06:04 EDT" finished-at="2021-04-01T02:06:09 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="addCustomer()[pri:3, instance:various_Concepts.LoginTest_TestNG@2d6eabae]" name="addCustomer" duration-ms="5883" started-at="2021-03-31T18:30:45 EDT" finished-at="2021-03-31T18:30:51 EDT">
+        <test-method status="PASS" signature="addCustomer()[pri:3, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="addCustomer" duration-ms="6337" started-at="2021-04-01T02:06:09 EDT" finished-at="2021-04-01T02:06:16 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:various_Concepts.LoginTest_TestNG@4e7dc304]" name="tearDown" is-config="true" duration-ms="1036" started-at="2021-04-01T02:06:16 EDT" finished-at="2021-04-01T02:06:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- various_Concepts.LoginTest_TestNG -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
